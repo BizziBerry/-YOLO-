@@ -13,7 +13,7 @@
 ---
 
 ## Как просмотреть?
-- 📄 **Читать онлайн**: https://github.com/BizziBerry/-AGI-/blob/main/AGI%20(AGI%20-%20Artificial%20General%20Intelligence)%20%D0%B2%20%D0%B1%D0%BB%D0%B8%D0%B6%D0%B0%D0%B9%D1%88%D0%B8%D0%B5%2010%20%D0%BB%D0%B5%D1%82.pdf
+- 📄 **Читать онлайн**: https://github.com/BizziBerry/-YOLO-/blob/main/%D0%92%20%D0%BB%D0%B5%D1%81%D1%83%20%D1%80%D0%BE%D0%B4%D0%B8%D0%BB%D0%B0%D1%81%D1%8C%20YOLO%D1%87%D0%BA%D0%B0.pdf
 - 📂 **Исходный текст**: `test`
 - 🔍 **Сопроводительные материалы**:  `/YOLO`
 
